@@ -2,7 +2,7 @@
 
 Sistema de autenticação com **JWT (JSON Web Token)** utilizando **Spring Boot**, com suporte a papéis de usuário (`USER`, `ADMIN`), proteção de rotas, registro, login, e documentação com Swagger.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Java 17+**
 - **Spring Boot**
@@ -14,7 +14,7 @@ Sistema de autenticação com **JWT (JSON Web Token)** utilizando **Spring Boot*
 - **Lombok**
 - **Swagger/OpenAPI** para documentação
 
-## 📦 Funcionalidades
+## Funcionalidades
 
 - Registro de usuários com e-mail, senha e papel (`USER` ou `ADMIN`)
 - Login e geração de token JWT
@@ -22,7 +22,7 @@ Sistema de autenticação com **JWT (JSON Web Token)** utilizando **Spring Boot*
 - Suporte a roles no token
 - Documentação da API com Swagger
 
-## 📌 Estrutura das Rotas
+## Estrutura das Rotas
 
 ### `POST /api/auth/register`
 Cria um novo usuário.
