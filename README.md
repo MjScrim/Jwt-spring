@@ -9,7 +9,7 @@ Sistema de autenticação com **JWT (JSON Web Token)** utilizando **Spring Boot*
     - Spring Web
     - Spring Security
     - Spring Data JPA
-- **H2 Database** (banco em memória para testes)
+- **H2 Database** 
 - **JWT (jjwt)**
 - **Lombok**
 - **Swagger/OpenAPI** para documentação
@@ -21,7 +21,6 @@ Sistema de autenticação com **JWT (JSON Web Token)** utilizando **Spring Boot*
 - Proteção de rotas com autenticação JWT
 - Suporte a roles no token
 - Documentação da API com Swagger
-- Banco de dados em memória (H2) para testes
 
 ## 📌 Estrutura das Rotas
 
